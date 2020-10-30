@@ -3,9 +3,9 @@
 # Introduction
 The World Wide Web was conceived more than 25 years ago as a tool for sharing information. It has become much more than that; it is a fundamental substrate for the lives of much of the planet. It provides instant access to information, certainly, but also commerce and shopping, social experiences, civic functions, entertainment, and more.
 
-The W3C has curated the Web platform during two key periods of the Web's development: its invention and bringing it to society; and then the stabilization of the Web platform, making it solid and interoperable across many environments.
+The W3C has curated the Web platform during two key periods of the Web's development: its invention and bringing it to society; and subsequent stabilization, making it reliable and interoperable across many environments.
 
-It is time to recognize and engage consciously with a third task, on a timeline of the next 10 years. The Web must have a path to continue to grow, while realizing and adjusting for its role in society.
+It is time to recognize and engage consciously with a third task, on a timeline for the next 10 years. The Web must have a path to continue to grow, while realizing and adjusting for its role in society.
 
 # History: Inventing the Web Platform - 1995 to 2005
 For the first 10 years or so, members of the W3C were working together to invent an open platform that used the internet protocols to share information to all humanity. We figured out what technologies from various existing (often proprietary) systems could be made to work via HTTP, how they might fit together, and which ones really got real world traction. We:
@@ -61,7 +61,7 @@ The W3C must rise to the challenge of improving the Web's platform's fundamental
 The W3C has long been recognized for its own core values that support the values of the Web itself:
 
 * A strong tradition of consensus-building and mutual respect and technical coordination across borders and industries;
-* Championing of fundamentals: accessibility, internationalization, security and privacy;
+* Championing of fundamentals: accessibility, internationalization, security, and privacy;
 * A drive for interoperability across vendors and implementations;
 * A patent policy that fosters collaboration;
 * An openness to exploring and fostering incubation in new areas and industries - providing a platform for discussion and collaboration;
