@@ -1,7 +1,7 @@
 *This document is intended to be a stronger vision statement for the [W3C](https://w3.org/).  This is currently exposed as a work item of the [W3C Advisory Board](https://www.w3.org/2002/ab/), on [the AB wiki](https://www.w3.org/wiki/AB/2021_Priorities#Vision). This document is the result of many people's work, notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik, and the rest of the Advisory Board.*
 
 # Introduction
-The World Wide Web was conceived more than 25 years ago as a tool for sharing information. It has become much more than that; it is a fundamental substrate for the lives of much of the planet. It provides instant access to information, certainly, but also commerce and shopping, social experiences, civic functions, entertainment, and more.
+The World Wide Web was conceived more than 25 years ago as a tool for sharing information. It has become much more than that; it is a fundamental part of the lives of much of the planet. It provides instant access to information, certainly, but also commerce and shopping, social experiences, civic functions, entertainment, and more.
 
 The W3C has curated the Web platform during two key periods of the Web's development: its invention and bringing it to society; and subsequent stabilization, making it reliable and interoperable across many environments.
 
@@ -10,7 +10,7 @@ It is time to recognize and engage consciously with a third task, on a timeline 
 # History: Inventing the Web Platform - 1995 to 2005
 For the first 10 years or so, members of the W3C were working together to invent an open platform that used the internet protocols to share information to all humanity. We figured out what technologies from various existing (often proprietary) systems could be made to work via HTTP, how they might fit together, and which ones really got real world traction. We:
 
-* cherry-picked ideas from early browsers, SGML editors, academic hypertext systems, word-processing products;
+* Chose the best of ideas from early browsers, SGML editors, academic hypertext systems, word-processing products;
 * incorporated scripting language support to make it customizable and dynamic;
 * incorporated stylesheets to separate content from presentation;
 * experimented with ways of integrating Web apps with databases and enterprise applications;
@@ -24,16 +24,16 @@ Once the W3C and other open communities had proved the Web's potential, business
 * under-specified and incompletely-implemented formats and APIs limited interoperability;
 * the mobile Web platform took off and created many new technology challenges, but the core web and engines supporting it failed to adapt quickly;
 * browser engines and clients evolved rapidly but unevenly;
-* entertainment and commerce eclipsed knowledge creation and sharing as the predominant use case for the Web;
+* entertainment and commerce over-took knowledge creation and sharing as the most common use case for the Web;
 * rapid change and business considerations led to confusion about what really was a "standard".
 
 The businesses which depended on the Web generally believed that they spent too much developer time just making their websites work across the range of devices and browsers their customers used. A significant number of major IT, telecom, entertainment, and other businesses have thought it good business to invest in the W3C to help make the Web platform work better. W3C and WHATWG agreed on the curation and publication of HTML.
 
 # The Present: Our Situation
-We have treated the Web as only a force for good; and indeed it has been a major catalyst for social change. We are proud of the positive changes: e-commerce,  publishing, instant access to facts, social engagement, entertainment. It is time to engage with fundamental questions:
+We have treated the Web as only a force for good; and indeed it has been a major cause of social change. We are proud of the positive changes: e-commerce,  publishing, instant access to facts, social engagement, entertainment. It is time to engage with fundamental questions:
 
 * Where are the positive impacts on society incompletely realized, and how can we improve them?
-* What negative impacts have we introduced or exacerbated, and how can we mitigate them?
+* What negative impacts have we introduced or exacerbated, and how can we lessen them?
 
 The Web's phenomenal success has led to many unintended consequences that are starting to inflict significant pain on society:
 
@@ -69,7 +69,7 @@ The W3C has long been recognized for its own core values that support the values
 
 We must build on these two sets of values and expand them:
 
-* First and foremost, we must ensure at all times that we are putting the needs of users first: above authors, publishers, implementers, and theoretical purity. We should clearly state our priority of constituencies (building on the excellent work from the [TAG's Ethical Web Principles](https://w3ctag.github.io/design-principles/#priority-of-constituencies) and the [HTML Design Principles](https://dev.w3.org/html5/html-design-principles/#priority-of-constituencies).
+* First and most importantly, we must ensure at all times that we are putting the needs of users first: above authors, publishers, implementers, and theoretical purity. We should clearly state our priority of constituencies (building on the excellent work from the [TAG's Ethical Web Principles](https://w3ctag.github.io/design-principles/#priority-of-constituencies) and the [HTML Design Principles](https://dev.w3.org/html5/html-design-principles/#priority-of-constituencies).
 * The W3C's consensus-driven model must continue to engage and provide opportunities to the representatives of organizations and user groups of small to big sizes, from different segments of the industries and different parts of the world. As the Web platform has grown and the core platform implementation diversity has continued to shrink, we must adjust to developing new methods of establishing consensus.
 * We must continue to ensure that the Web can work for everyone. We must strive for diversity and inclusion of the participants from different geographical locations, gender identities, accessibility needs, and more.
 * We must remain committed to improving security and privacy on the Web, including revisiting the current Web platform and exploring how to responsibly foster better personal privacy. At the same time, we must continue to engage with new capabilities and user scenarios, and foster innovation in how to bring new scenarios to the Web. Ultimately, we must coherently grow the architecture of the Web from the core needs of the platform to specific user-beneficial use cases identified by various Web-related industries, such as telecommunications, publishing, media & entertainment, and financial services.
