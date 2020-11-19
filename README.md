@@ -1,7 +1,7 @@
 *This document is intended to be a stronger vision statement for the [W3C](https://w3.org/).  This is currently exposed as a work item of the [W3C Advisory Board](https://www.w3.org/2002/ab/), on [the AB wiki](https://www.w3.org/wiki/AB/2021_Priorities#Vision). This document is the result of many people's work, notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik, and the rest of the Advisory Board.*
 
 # Introduction
-The World Wide Web was conceived more than 25 years ago as a tool for sharing information. It has become much more than that; it is a fundamental part of the lives of much of the planet. It provides instant access to information, certainly, but also commerce and shopping, social experiences, civic functions, entertainment, and more.
+The World Wide Web was conceived more than 25 years ago as a tool for sharing information. It has become much more than that; it is a fundamental part of the lives of much of the planet. It provides instant access to information, commerce & shopping, social experiences, civic functions, entertainment, and more.
 
 The W3C has curated the Web platform during two key periods of the Web's development: its invention and bringing it to society; and subsequent stabilization, making it reliable and interoperable across many environments.
 
