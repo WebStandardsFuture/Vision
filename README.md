@@ -20,13 +20,14 @@ Our core principles to support these values are:
 
 * putting the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity; a priority of constituencies built on the excellent work from the [TAG's Ethical Web Principles](https://w3ctag.github.io/design-principles/#priority-of-constituencies) and the [HTML Design Principles](https://dev.w3.org/html5/html-design-principles/#priority-of-constituencies).
 * ensuring that the Web can work for everyone, striving for diversity & inclusion of participants from different geographical locations, gender identities, accessibility needs, and more.
-* championing of fundamentals: accessibility, internationalization, security, and privacy
+* championing of fundamentals: accessibility, internationalization, security, and privacy, including revisiting the current Web platform and exploring how to responsibly improve personal privacy for users.
+
+We will continue to perform our function through:
 * consensus-building, mutual respect, and technical coordination across borders, industries, and organizations around the world
 * driving interoperability across vendors and implementations using open test suites
 * fostering collaboration and interoperability with a strong patent policy and open licenses
 * encouraging incubation in new areas & industries with platforms for discussion & collaboration
-* respected relationships with governments & businesses for providing credible advice.
-* continued security and privacy improvements, including revisiting the current Web platform and exploring how to responsibly improve personal privacy, as well as assessing privacy and security impacts of new capabilities, user scenarios, and innovations
+* building and maintaining respected relationships with governments & businesses for providing credible advice.
 
 This vision of who we are and our shared organizational values must move into strategic conversations about who we serve, how we serve them, and with whom we partner.
 
