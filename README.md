@@ -22,8 +22,8 @@ Our core principles to support these values are:
 * ensuring that the Web can work for everyone, striving for diversity & inclusion of participants from different geographical locations, gender identities, accessibility needs, and more.
 * championing of fundamentals: accessibility, internationalization, security, and privacy, including revisiting the current Web platform and exploring how to responsibly improve personal privacy for users.
 
-We will continue to perform our function through:
-* consensus-building, mutual respect, and technical coordination across borders, industries, and organizations around the world
+We will act on these principles by:
+* consensus-building and fostering mutual respect and technical coordination across borders, industries, and organizations around the world
 * driving interoperability across vendors and implementations using open test suites
 * fostering collaboration and interoperability with a strong patent policy and open licenses
 * encouraging incubation in new areas & industries with platforms for discussion & collaboration
