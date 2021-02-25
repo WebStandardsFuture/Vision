@@ -58,11 +58,11 @@ Once the W3C and other open communities had proved the Web's potential, business
 The businesses which depended on the Web generally believed that they spent too much developer time just making their websites work across the range of devices and browsers their customers used. A significant number of major IT, telecom, entertainment, and other businesses have thought it good business to invest in the W3C to help make the Web platform work better. W3C and WHATWG agreed on the curation and publication of HTML.
 
 ## The Present: Our Situation
-We have treated the Web as only a force for good; and indeed it has catalyzed major social changes. We are proud of the positive changes: e-commerce, publishing, instant access to facts, social engagement, entertainment. At the same time, the Web's phenomenal success has led to many unintended consequences that inflict significant distress on society:
+We have treated the Web as only a force for good, and indeed it has catalyzed major social changes. We are proud of the positive changes: e-commerce, publishing, instant access to facts, social engagement, entertainment. At the same time, the Web's phenomenal success has led to many unintended consequences that inflict significant distress on society:
 
-its openness and anonymity enable scams, phishing, and fraud
-it is too easy to gather personal information, unknown to users: business models that support "free" access to web resources mostly depend on collecting detailed personal information on users without their knowledge, performing exploitive surveillance. The wealth of content funded by these models are a public good; the loss of personal privacy and higher barriers to understanding are not
-by accelerating the easy exchange of information around the globe, it has enabled misinformation to flourish and be exploited for political or commercial gain;
+* Its openness and anonymity enable scams, phishing, and fraud.
+* It is too easy to gather personal information, unknown to users: business models that support "free" access to web resources mostly depend on collecting detailed personal information on users without their knowledge, performing exploitive surveillance. The wealth of content funded by these models are a public good; the loss of personal privacy and higher barriers to understanding are not.
+* By accelerating the easy exchange of information around the globe, it has enabled misinformation to flourish and be exploited for political or commercial gain;
 lack of diversity in participation at the W3C has undoubtedly led to [biases in specifications](https://en.wikipedia.org/wiki/Algorithmic_bias).
 
 In addition, the successes of the Web don't ensure that members will keep supporting the W3C to perform its functions. Far from there being a need to convince people of the value of the Web, it has become ["too big to fail."](https://en.wikipedia.org/wiki/Too_big_to_fail) The Web is a clear public good, and sometimes suffers from the problem that its maintenance and development are taken as a given, and fewer organizations can economically justify investing their time and expertise in improving the platform for everyone else.
