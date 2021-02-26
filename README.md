@@ -7,7 +7,11 @@ The World Wide Web was conceived more than 25 years ago as a tool for sharing in
 
 We have treated the Web as a force for good; and indeed it has catalyzed major social changes. At the same time, the Web's phenomenal success has led to many unintended consequences that inflict significant distress on society: openness & anonymity enable scams, phishing, and fraud. Ease of gathering personal information spawned business models that mined & sold detailed user behaviors, without people’s awareness or consent. The acceleration of global information sharing enabled misinformation to flourish, be exploited for political or commercial gain, divide societies, and incite hate.  We must do better.
 
-The W3C must task itself with improving the Web platform's fundamental integrity, while the Web continues to grow in scope and importance in our lives.  We believe in these core values of the Web itself:
+The W3C must task itself with improving the Web platform's fundamental integrity, while the Web continues to grow in scope and importance in our lives.  
+
+# Our values
+
+We believe in these core values of the Web itself:
 
 * the Web is for all humanity
 * the Web is designed for the good of its users
