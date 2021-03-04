@@ -22,7 +22,7 @@ We believe in these core values of the Web itself:
 
 Our core principles to support these values are:
 
-* putting the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity; a priority of constituencies built on the excellent work from the [TAG's Ethical Web Principles](https://w3ctag.github.io/design-principles/#priority-of-constituencies) and the [HTML Design Principles](https://dev.w3.org/html5/html-design-principles/#priority-of-constituencies).
+* putting the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity; a priority of constituencies built on the excellent work from the [TAG's Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/).
 * ensuring that the Web can work for everyone, striving for diversity & inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more.
 * championing of fundamentals: accessibility, internationalization, security, and privacy, including revisiting the current Web platform and exploring how to responsibly improve personal privacy for users.
 
