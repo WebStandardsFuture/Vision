@@ -30,7 +30,7 @@ We will act on these principles by:
 * consensus-building and fostering mutual respect and technical coordination across borders, industries, and organizations around the world
 * driving interoperability across vendors and implementations using open test suites
 * fostering collaboration and interoperability with a strong patent policy and open licenses
-* encouraging incubation in new areas & industries with platforms for discussion & collaboration
+* encouraging incubation in new areas & industries with platforms for discussion, collaboration and innovation
 * building and maintaining respected relationships with governments & businesses for providing credible advice.
 
 This vision of who we are and our shared organizational values must move into strategic conversations about who we serve, how we serve them, and with whom we partner.
