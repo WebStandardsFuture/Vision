@@ -36,6 +36,22 @@ The W3C itself must function with these strategic principles:
 
 This vision of who we are and our shared organizational values must move into strategic conversations about who we serve, how we serve them, and with whom we partner.
 
-# Appendices
+# Strategic Goals
+* Reinforce efforts on accessibility and internationalization for achieving the goal of web for everyone.
 
-[History](History.md)
+* Ensure that evolving web platform and web technologies improve the integrity, security and privacy.
+* Evolve the extensible web architecture to empower industries and individuals to address the evolving user’s needs.
+* Reinforce efforts on incubation, make it more structured and improve consensus building among the key stake holders.
+* Achieve worldwide participation, diversity and inclusion for establishing W3C as representative of the worldwide community.
+* Further improve the environment and the Process for facilitating balance, equity and cooperation among the participating organizations and user groups from different industries and sizes.
+* Increase involvement of underrepresented key stake holders like representatives of end users, content creators, developers etc.
+* Establish collaborative relationship with other organizations in the domain of internet and web standards.
+* Establish the unique global brand identity for W3C, which highlights the following:
+    * We are an open forum where diverse voices from around the world and industries come together, incubate and build consensus for global standards for web technologies.
+    * We are socially responsible and committed to ensure that web is for everyone, we greatly emphasize accessibility, internationalization, privacy, security and diversity.
+    * We are committed to developing open and royalty free standards with high focus on interoperability and collective empowerment.
+
+# Appendices & References
+* This document builds on the basis of the Technical Architecture Group's excellent [Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/).  It is not intended to supplant that work nor redefine it, but fit into the same framework and promote many of the same goals.
+* This document also builds on a specific [history](History.md) of the W3C's growth and success.
+
