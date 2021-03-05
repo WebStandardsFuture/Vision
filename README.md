@@ -9,39 +9,29 @@ We have treated the Web as a force for good; and indeed it has catalyzed major s
 
 The W3C must task itself with improving the Web platform's fundamental integrity, while the Web continues to grow in scope and importance in our lives.  
 
-# Our values
+# Our Principles
 
-We believe in these core values of the Web itself:
+We believe in these core principles of the Web:
 
 * the Web is for all humanity
 * the Web is designed for the good of its users
 * the Web must be safe for its users
 * there is one interoperable world-wide Web
 
-# Our Principles: Focusing on the Integrity of the Web
+# Our Purpose: Focusing on the Integrity of the Web
 
-Our core principles to support these values are:
-
-* putting the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity; a priority of constituencies built on the excellent work from the [TAG's Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/).
-* ensuring that the Web can work for everyone, striving for diversity & inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more.
-* championing of fundamentals: accessibility, internationalization, security, and privacy, including revisiting the current Web platform and exploring how to responsibly improve personal privacy for users.
-
-We will act on these principles by:
-* consensus-building and fostering mutual respect and technical coordination across borders, industries, and organizations around the world
-* driving interoperability across vendors and implementations using open test suites
-* fostering collaboration and interoperability with a strong patent policy and open licenses
-* encouraging incubation in new areas & industries with platforms for discussion, collaboration and innovation
-* building and maintaining respected relationships with governments & businesses for providing credible advice.
-
-This vision of who we are and our shared organizational values must move into strategic conversations about who we serve, how we serve them, and with whom we partner.
-
-# Principles
-
+In order to deliver on these principles, we must:
+* Put the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity
+* Ensure that the Web can work for everyone, striving for diversity & inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more.
+* Champion fundamentals: accessibility, internationalization, security, and privacy, including revisiting the current Web platform and exploring how to responsibly improve personal privacy for users.
 *	Provide an open forum for discussions for organizations of all sizes (from single person company to multinationals.
 *	Ensure that standards are developed with consensus of industry and key stakeholders
 *	Maintain and develop the unified web architecture, which continues to address evolving use cases.
+* Drive interoperability across vendors and implementations using open test suites, a strong patent policy and open licenses
+* Encourage incubation in new areas & industries with platforms for discussion, collaboration and innovation
+* Build and maintain respected relationships with governments & businesses for providing credible advice.
 
-
+This vision of who we are and our shared organizational values must move into strategic conversations about who we serve, how we serve them, and with whom we partner.
 
 # Appendices
 
