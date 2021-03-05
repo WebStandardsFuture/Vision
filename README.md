@@ -22,10 +22,10 @@ We believe in these core values of the Web:
 The W3C itself must function with these strategic principles:
 
 * Put the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity
-* Ensure that the Web can work for everyone, striving for diversity & inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more.
-* Champion fundamentals: accessibility, internationalization, security, and privacy, including revisiting the current Web platform and exploring how to responsibly improve personal privacy for users.
+* Ensure that the Web can work for everyone, striving for diversity & inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more. Continue to champion accessibility and internationalization as core principles for the Web.
+* Make the web trustworthy, by improving security and privacy for users. We must revisit the current Web platform and explore how to responsibly improve personal privacy for users.
 * Drive interoperability across vendors and implementations using open test suites, a strong patent policy and open licenses
-* Encourage incubation in new areas & industries with platforms for discussion, collaboration and innovation
+* Encourage incubation in new areas & industries with open platforms for discussion, collaboration and innovation
 
 # Our Purpose: Focusing on the Integrity of the Web
 
