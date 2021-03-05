@@ -35,6 +35,13 @@ We will act on these principles by:
 
 This vision of who we are and our shared organizational values must move into strategic conversations about who we serve, how we serve them, and with whom we partner.
 
+# Principles
+
+*	Provide an open forum for discussions for organizations of all sizes (from single person company to multinationals.
+*	Ensure that standards are developed with consensus of industry and key stakeholders
+*	Maintain and develop the unified web architecture, which continues to address evolving use cases.
+
+
 
 # Appendices
 
