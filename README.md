@@ -17,6 +17,8 @@ We believe in these core values of the Web itself:
 * the Web is designed for the good of its users
 * the Web must be safe for its users
 * there is one world-wide Web
+* the Web is interoperable
+* the Web is royalty-free
 
 # Our Principles: Focusing on the Integrity of the Web
 
