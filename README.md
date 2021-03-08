@@ -1,6 +1,4 @@
-*This document is intended to be a stronger vision statement for the [W3C](https://w3.org/).  This is currently exposed as a work item of the [W3C Advisory Board](https://www.w3.org/2002/ab/), on [the AB wiki](https://www.w3.org/wiki/AB/2021_Priorities#Vision). This document is the result of many people's work, notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik, and the rest of the Advisory Board.*
-
-A New Focus: Improving the Web’s Integrity
+A New Focus for the W3C: Improving the Web’s Integrity
 
 # Introduction
 The World Wide Web was conceived more than 25 years ago as a tool for sharing information. It has become much more than that; it is a fundamental part of the lives of much of the planet, enabling access to information, commerce & shopping, social experiences, civic functions, entertainment, and more. 
@@ -23,14 +21,14 @@ The W3C itself must function with these strategic principles:
 
 * Put the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity
 * Ensure that the Web can work for everyone, striving for diversity & inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more. Continue to champion accessibility and internationalization as core principles for the Web.
-* Make the web trustworthy, by improving security and privacy for users. We must revisit the current Web platform and explore how to responsibly improve personal privacy for users. 
+* Make the web trustworthy, by improving security and privacy for users. We must revisit the current Web platform and explore how we can responsibly improve personal privacy for users. 
 * Ensure the Web does not favor centralization. 
 * Drive interoperability across vendors and implementations using open test suites, a strong patent policy and open licenses
 * Encourage incubation in new areas & industries with open platforms for discussion, collaboration and innovation
 
 # Our Purpose: Focusing on the Integrity of the Web
 
-We believe the W3C's fundamental purpose is to:
+We believe the W3C's purpose is to:
 
 *	Provide an open forum for discussions for organizations of all sizes (from single person company to multinationals.
 *	Ensure that standards are developed with consensus of industry and key stakeholders
@@ -52,7 +50,9 @@ We believe the W3C's fundamental purpose is to:
     * We are socially responsible and committed to ensure that web is for everyone, we greatly emphasize accessibility, internationalization, privacy, security and diversity.
     * We are committed to developing open and royalty free standards with high focus on interoperability and collective empowerment.
 
-# Appendices & References
+# Acknowledgements and Supporting Material
+* This document is intended to be a stronger vision statement for the [W3C](https://w3.org/).  This is currently exposed as a work item of the [W3C Advisory Board](https://www.w3.org/2002/ab/), on [the AB wiki](https://www.w3.org/wiki/AB/2021_Priorities#Vision). 
+* This document is the result of many people's work, notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik, Tzviya Siegman, Avneesh Singh and the rest of the Advisory Board.
 * This document builds on the basis of the Technical Architecture Group's excellent [Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/).  It is not intended to supplant that work nor redefine it, but fit into the same framework and promote many of the same goals.
 * This document also builds on a specific [history](History.md) of the W3C's growth and success.
 
