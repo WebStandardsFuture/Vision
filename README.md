@@ -36,19 +36,20 @@ We believe the W3C's purpose is to:
 *   Build and maintain respected relationships with governments & businesses for providing credible advice.
 
 # Strategic Goals
-* Reinforce efforts on accessibility and internationalization for achieving the goal of web for everyone.
-
+* Ensure efforts on accessibility and internationalization continue to achieve the goal of web for everyone.
 * Ensure that evolving web platform and web technologies improve the integrity, security and privacy.
 * Evolve the extensible web architecture to empower industries and individuals to address the evolving user’s needs.
-* Reinforce efforts on incubation, make it more structured and improve consensus building among the key stake holders.
+* Improve efforts on incubation, make it more structured and improve consensus building among the key stake holders.
 * Achieve worldwide participation, diversity and inclusion for establishing W3C as representative of the worldwide community.
 * Further improve the environment for facilitating balance, equity and cooperation among the participating organizations and user groups from different industries and sizes.
 * Increase involvement of underrepresented key stake holders like representatives of end users, content creators, developers etc.
-* Establish collaborative relationship with other organizations in the domain of internet and web standards.
-* Establish the unique global brand identity for W3C, which highlights the following:
-    * We are an open forum where diverse voices from around the world and industries come together, incubate and build consensus for global standards for web technologies.
-    * We are socially responsible and committed to ensure that web is for everyone, we greatly emphasize accessibility, internationalization, privacy, security and diversity.
-    * We are committed to developing open and royalty free standards with high focus on interoperability and collective empowerment.
+* Establish and improve collaborative relationship with other organizations in the domain of internet and web standards.
+
+# Identity
+The global brand of the W3C should be centered around the following:
+* We are an open forum where diverse voices from around the world and industries come together, incubate and build consensus for global standards for web technologies.
+* We are socially responsible and committed to ensure that web is for everyone, we greatly emphasize accessibility, internationalization, privacy, security and diversity.
+* We are committed to developing open and royalty free standards with high focus on interoperability and collective empowerment.
 
 # Acknowledgements and Supporting Material
 * This document is intended to be a stronger vision statement for the [W3C](https://w3.org/).  This is currently exposed as a work item of the [W3C Advisory Board](https://www.w3.org/2002/ab/), on [the AB wiki](https://www.w3.org/wiki/AB/2021_Priorities#Vision). 
