@@ -1,9 +1,9 @@
 A New Focus for the W3C: Improving the Web’s Integrity
 
 # Introduction
-The World Wide Web was conceived more than 25 years ago as a tool for sharing information. It has become much more than that; it is a fundamental part of the lives of much of humanity, enabling access to information, commerce and shopping, social experiences, civic functions, entertainment, and more. 
+The World Wide Web was conceived more than 25 years ago as a tool for sharing information. It has become much more than that; it is a fundamental part of the lives of much of humanity, enabling access to information, education, commerce and shopping, social experiences, civic functions, entertainment, and more. 
 
-We have treated the Web as a force for good; and indeed it has catalyzed major social changes. At the same time, the Web's phenomenal success has led to many unintended consequences that inflict significant distress on society: openness and anonymity enable scams, phishing, and fraud. Ease of gathering personal information spawned business models that mined and sold detailed user behaviors, without people’s awareness or consent. The acceleration of global information sharing enabled misinformation to flourish, be exploited for political or commercial gain, divide societies, and incite hate.  We must do better.  We must take steps to address these unintended consequences in the standards we develop.
+The Web is a force for good; indeed, it has catalyzed major social changes. At the same time, the Web's phenomenal success has led to many unintended consequences that inflict significant distress on society: openness and anonymity enable scams, phishing, and fraud. Ease of gathering personal information spawned business models that mined and sold detailed user behaviors, without people’s awareness or consent. The acceleration of global information sharing enabled misinformation to flourish, be exploited for political or commercial gain, divide societies, and incite hate.  We must do better.  We must take steps to address these unintended consequences in the standards we develop.
 
 The W3C must task itself with improving the Web platform's fundamental integrity, while the Web continues to grow in scope and importance in our lives.  
 # Our Values
@@ -22,6 +22,7 @@ The W3C itself must function with these strategic principles:
 * Put the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity
 * Ensure that the Web can work for everyone, striving for diversity and inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more. Continue to champion accessibility and internationalization as core principles for the Web.
 * Make the web trustworthy, by improving security and privacy for users. We must revisit the current Web platform and explore how we can responsibly improve personal privacy for users. 
+* Ensure the Web does not favor centralization. 
 * Drive interoperability across vendors and implementations using open test suites, a strong patent policy and open licenses
 * Encourage incubation in new areas and industries with open platforms for discussion, collaboration and innovation
 
