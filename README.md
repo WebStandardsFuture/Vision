@@ -23,9 +23,9 @@ The W3C itself must function with these strategic principles:
 * Put the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity.
 * Ensure transparency, equity and fairness. Our work should not be exclusively dominated by any person, company or interest group.
 * Ensure that the Web can work for everyone, striving for diversity and inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more. Continue to champion accessibility and internationalization as core principles for the Web.
-* Make the web trustworthy, by improving security and privacy for users. We must revisit the current Web platform and explore how we can responsibly improve personal privacy for users. 
+* Make the web trustworthy, by ensuring security and privacy for users. 
 * Ensure the Web does not favor centralization. 
-* Drive interoperability across vendors and implementations using open test suites, a strong patent policy and open licenses
+* Drive interoperability across vendors and implementations using open test suites, a strong patent policy and open copyright licenses
 * Encourage incubation in new areas and industries with open platforms for discussion, collaboration and innovation
 
 # Our Purpose: Focusing on the Integrity of the Web
@@ -39,11 +39,11 @@ We believe the W3C's purpose is to:
 
 # Strategic Goals
 * Ensure efforts on accessibility and internationalization continue to achieve the goal of a Web for everyone.
-* Ensure that the evolving Web platform and Web technologies improve in integrity, security and privacy.
+* Ensure that the evolving Web platform and Web technologies improve in integrity, security and privacy. We must revisit the current Web platform and explore how we can responsibly improve personal privacy for users. 
 * Evolve the extensible web architecture to empower industries and individuals to address the evolving user’s needs.
 * Improve efforts on new technology incubation, making it more structured and improving consensus-building among key stake holders.
 * Achieve worldwide participation, diversity and inclusion, establishing W3C as representative of the worldwide community.
-* Further improve the environment for facilitating balance, equity and cooperation among the participating organizations and user groups from different industries and sizes.
+* Further improve the environment for facilitating balance, equity and cooperation among the participants from different industries, user groups and organizational sizes.
 * Increase involvement of under-represented key stakeholders such as end users, content creators, developers etc.
 * Establish and improve collaborative relationships with other organizations in the domain of Internet and Web standards.
 
