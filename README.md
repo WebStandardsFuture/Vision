@@ -7,11 +7,11 @@ The Web is a force for good; indeed, it has catalyzed major social changes. At t
 
 Technology is not neutral; new technologies facilitate new actions, enable new possibilities. If we are proud of the good enabled by new technology, we must admit and recognize the enabled harm: we will take responsibility, as well as claiming credit.
 
-Our vision is for a World-Wide-Web that is more inclusive, and more respectful of its users and particularly their privacy. A Web that supports truth better than falsehood, people more than profits, humanity rather than hate.
+Our vision is for a World Wide Web that is more inclusive, and more respectful of its users: a Web that supports truth better than falsehood, people more than profits, humanity rather than hate.
 
-We will improve the fundamental integrity of the Web platform. The Web will not only grow in scope and importance in our lives; ; it will grow in respect for its users, grow in the trust of its users, grow in its inclusion of all humanity as its users.
+We will improve the fundamental integrity of the Web platform. The Web will not only grow in scope and importance in our lives; it will grow in respect for its users, grow in the trust of its users, grow in its inclusion of all humanity as its users.
 
-Our new vision is built on these twin pillars.
+Our new vision is built on these twin pillars:
 
 * Our existing pillar, on which we built the web: the enormous potential of technological change.
 * Our new pillar for the years ahead: recognition and embodiment of fundamental values into the architecture of the web.
