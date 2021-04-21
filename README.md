@@ -5,7 +5,7 @@ The World Wide Web was conceived more than 25 years ago as a tool for sharing in
 
 The Web is a force for good; indeed, it has catalyzed major social changes. At the same time, the Web's phenomenal success has led to many unintended consequences that inflict significant distress on society: openness and anonymity enable scams, phishing, and fraud. Ease of gathering personal information spawned business models that mined and sold detailed user behaviors, without people’s awareness or consent. The acceleration of global information sharing enabled misinformation to flourish, be exploited for political or commercial gain, divide societies, and incite hate.  We must do better.  We must take steps to address these unintended consequences in the standards we develop.
 
-Technology is not neutral; new technologies facilitate new actions, and enable new possibilities. We are proud of the good enabled by our web technologies; we will take the responsibility to assess the potential and actual impact of our work, especially harms, using our values; and we will optimize these technologies throughout their lifecycles.
+Technology is not neutral; new technologies facilitate new actions, and enable new possibilities. We are proud of the good enabled by our web technologies; we will take the responsibility to use our values both to assess the potential and actual impact of our work (especially harms caused by that work), and to optimize these technologies throughout their lifecycles.
 
 Our vision is for a World Wide Web that is more inclusive, and more respectful of its users: a Web that supports truth better than falsehood, people more than profits, humanity rather than hate.
 
