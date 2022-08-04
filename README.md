@@ -1,3 +1,5 @@
+# this work has moved to https://github.com/w3c/AB-public/tree/main/Vision.
+
 A New Focus for the W3C: Improving the Web’s Integrity
 
 # Introduction
